@@ -1,0 +1,36 @@
+/*
+Theme Name: Yoga
+Theme URI: https://wordpress.org/
+Author: WP Team
+Author URI: https://wordpress.org/
+Description: Custom Yoga Poses template
+Version: 2018.03
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: yoga
+*/
+
+.clear-both{
+	clear: both;
+}
+.board-main-img{
+	max-height: 271px;
+}
+.g-recaptcha{
+	display: none;
+}
+.grecaptcha-badge{
+	display: none;
+}
+/*
+.tabcontrol ul>li, .wizard ul>li{
+	display: inline !important;
+}*/
+
+.essb_links_list li {
+	display: inline !important;
+}
+
+.footer .container .footer__inner a.footer__link.book-yoga{
+	font-size: 12px;
+}
